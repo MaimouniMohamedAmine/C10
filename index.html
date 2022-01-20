@@ -10,34 +10,31 @@
     <title>C11</title>
 </head>
 <body>
+    <input id="Inpt">
     <div class="table-responsive-md">          
-        <table class="table table-hover">
+        <table id="table" class="table table-hover">
             <thead>
-              <tr class="table-primary">
-              <th>ID</th>
-              </tr>
-              <tr class="table-success">
-              <th>Designation</th>
-              </tr>
-              <tr class="table-danger">
-              <th>Prix</th>
-              </tr>
-              <tr class="table-info">
-              <th>Categorie</th>
-              </tr>
-              <tr class="table-warning">
-              <th>Disponibilite</th>
-              </tr>
-              <tr class="table-active">
-              <th>Fournisseur</th>
+                <tr>
+              <th class="table-primary">ID</th>
+
+              <th class="table-info secondary text-dark">Nom du produit</th>
+              
+              <th class="table-primary success">Couleur</th>
+              
+              <th class="table-warning">Prix</th>
+              
+              <th class="table-info">Catégorie</th>
+            
+              <th class="table-primary">Disponibilité</th>
+              
+              <th class="table-info border-2-solid-black ">Fournisseur</th>
               </tr>
             </thead>
-            <tbody>
-                <tr>
-                </tr>
+            <tbody id="tbody">
             </tbody>
         </table>
     </div>
-    
+    <script src="/main.js"></script>
+    <script src="/produits.json"></script>
 </body>
 </html>

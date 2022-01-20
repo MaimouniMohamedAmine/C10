@@ -1,4 +1,5 @@
-[{
+[
+  {
     "name": "Loafers by ASOS DESIGN",
     "colour": "Brown",
     "ID": "105125402",
@@ -9,8 +10,10 @@
       "Casablanca",
       "Aayoun"
     ],
-   "Address":"",
-    "Supplier":""
+    "Supplier":{
+      "companyName":"ASOS",
+        "address":"Carreras Cigarette Factory, Hampstead Rd, London NW1 7FB, UK"
+    }
   },
   {
     "name": "River Island embossed key derby shoes",
@@ -23,8 +26,11 @@
       "Casablanca",
       "Aayoun"
     ],
-    "Address":"",
-    "Supplier":""
+    "Supplier":{
+      "companyName":"River Island",
+        "address":
+        "Unit 28, Liverpool Shopping Park,Montrose Way, Liverpool, L13 1FA."
+    }
   },
   {
     "name": "Monk shoes in black leather with emboss panel",
@@ -37,8 +43,10 @@
       "Casablanca",
       "Aayoun"
     ],
-    "Address":"",
-    "Supplier":""
+    "Supplier":{
+      "companyName":"Beckett Simonon.",
+        "address":"Colombia's Andean capital, Bogotá."
+    }
   },
   {
     "name": "Monk shoes with brogue detail",
@@ -51,22 +59,26 @@
       "Casablanca",
       "Aayoun"
     ],
-    "Address":"",
-    "Supplier":""
+    "Supplier":{
+      "companyName":"Beckett Simonon.",
+        "address":"Colombia's Andean capital, Bogotá."
+    }
   },
   {
     "name": "Monk shoe in stone suede",
     "colour": "Martini",
     "ID": "108508374",
-    "price": "2300",
+    "price": "2300 MAD",
     "category": "Men",
     "stock": [
       "Tanger",
       "Casablanca",
       "Aayoun"
     ],
-    "Address":"",
-    "Supplier":""
+    "Supplier":{
+      "companyName":"Beckett Simonon.",
+      "address":"Colombia's Andean capital, Bogotá."
+    }
   },
   {
     "name": "Selected Homme leather derby shoes",
@@ -79,36 +91,42 @@
       "Casablanca",
       "Aayoun"
     ],
-    "Address":"",
-    "Supplier":""
+    "Supplier":{
+      "companyName":"Selected",
+      "address":"Selected / BESTSELLER Showroom - London 10 Fashion Street, Unit A E1 6PX London"
+    }
   },
   {
     "name": "Dr Martens 1461 3 eye shoes",
     "colour": "Brown",
     "ID": "1620249",
     "price": "1200 MAD",
-    "category": "Men",
+    "category": "Unisex",
     "stock": [
       "Tanger",
       "Casablanca",
       "Aayoun"
     ],
-    "Address":"",
-    "Supplier":""
+    "Supplier":{
+      "companyName":"Dr Martens",
+      "address":"Ten Northwest Tenth Avenue Portland, OR 97209 USA"
+    }
   },
   {
     "name": "Dr Martens x Keith Haring 1461 3 eye shoes",
     "colour": "Black",
     "ID": "1894064",
     "price": "1200 MAD",
-    "category": "Men",
+    "category": "Unisex",
     "stock": [
       "Tanger",
       "Casablanca",
       "Aayoun"
     ],
-    "Address":"",
-    "Supplier":""
+    "Supplier":{
+      "companyName":"Dr Martens x Keith Haring",
+      "address":"Ten Northwest Tenth Avenue Portland, OR 97209 USA"
+    }
   },
   {
     "name": "Oxford brogue leather shoes ",
@@ -121,8 +139,10 @@
       "Casablanca",
       "Aayoun"
     ],
-    "Address":"",
-    "Supplier":""
+    "Supplier":{
+      "companyName":"Oxford",
+      "address":"Westgate, Oxford OX1 1TR"
+    }
   },
   {
     "name": "Oxford brogue leather shoes",
@@ -135,8 +155,10 @@
       "Casablanca",
       "Aayoun"
     ],
-    "Address":"",
-    "Supplier":""
+    "Supplier":{
+      "companyName":"Oxford",
+      "address":"Westgate, Oxford OX1 1TR"
+    }
   },
   {
     "name": "Oxford leather shoes with toe cap",
@@ -149,36 +171,42 @@
       "Casablanca",
       "Aayoun"
     ],
-    "Address":"",
-    "Supplier":""
+    "Supplier":{
+      "companyName":"Oxford",
+      "address":"Westgate, Oxford OX1 1TR"
+    }
   },
   {
     "name": "Dr Martens 1461 ziggy shoes",
     "colour": "Tan",
     "ID": "1834161",
     "price": "980 MAD",
-    "category": "Men",
+    "category": "Unisex",
     "stock": [
       "Tanger",
       "Casablanca",
       "Aayoun"
     ],
-    "Address":"",
-    "Supplier":""
+    "Supplier":{
+      "companyName":"Dr Martens",
+      "address":"Ten Northwest Tenth Avenue Portland, OR 97209 USA"
+    }
   },
   {
     "name": "Dr Martens 1461 3 eye shoes",
     "colour": "Red",
     "ID": "1729709",
     "price": "1075 MAD",
-    "category": "Men",
+    "category": "Unisex",
     "stock": [
       "Tanger",
       "Casablanca",
       "Laayoun"    
     ],
-    "Address":"",
-    "Supplier":""
+    "Supplier":{
+      "companyName":"Dr Martens",
+      "address":"Ten Northwest Tenth Avenue Portland, OR 97209 USA"
+    }
   },
   {
     "name": "Base london draco derby leather shoes",
@@ -191,8 +219,10 @@
       "Casablanca",
       "Laayoun"
     ],
-    "Address":"",
-    "Supplier":""
+    "Supplier":{
+      "companyName":"Base London",
+      "address":"Base London 4/6 Buckingham Court, Rectory Lane, Loughton, Essex, IG10 2QZ"
+    }
   },
   {
     "name": "Base london draco derby leather shoes",
@@ -205,8 +235,10 @@
       "Casablanca",
       "Laayoun"
     ],
-    "Address":"",
-    "Supplier":""
+    "Supplier":{
+      "companyName":"Base London",
+      "address":"Base London 4/6 Buckingham Court, Rectory Lane, Loughton, Essex, IG10 2QZ"
+    }
   },
   {
     "name": "French Connection leather formal lace up shoes",
@@ -219,8 +251,10 @@
       "Casablanca",
       "Laayoun"
     ],
-    "Address":"",
-    "Supplier":""
+    "Supplier":{
+      "companyName":"French Connection",
+      "address":"29 Kimberley Walk, Ashford, TN24 0SE, U"
+    }
   },
   {
     "name": "HUGO Appeal lace up shoes",
@@ -233,8 +267,10 @@
       "Casablanca",
       "Aayoun"
     ],
-    "Address":"",
-    "Supplier":""
+    "Supplier":{
+      "companyName":"HUGO BOSS",
+      "address":"HUGO BOSS AG Dieselstraße 12 72555 Metzingen Germany"
+    }
   },
   {
     "name": "Red Tape leather lace up oxford shoes",
@@ -247,8 +283,10 @@
       "Casablanca",
       "Aayoun"
     ],
-    "Address":"",
-    "Supplier":""
+    "Supplier":{
+      "companyName":"Oxford",
+      "address":"Westgate, Oxford OX1 1TR"
+    }
   },
   {
     "name": "H by Hudson calverston brogues in suede",
@@ -261,8 +299,10 @@
       "Casablanca",
       "Aayoun"
     ],
-    "Address":"",
-    "Supplier":""
+    "Supplier":{
+      "companyName":"Hudson",
+      "address":"20 Hoxton Square, Hackney, London N1 6NT"
+    }
   },
   {
     "name": "Silver Street casual lace up suede shoes ",
@@ -275,7 +315,9 @@
       "Casablanca",
       "Aayoun"
     ],
-    "Address":"",
-    "Supplier":""
+    "Supplier":{
+      "companyName":"Silver Street London",
+      "address":"Leicester, UK"
+    }
   }
 ]
