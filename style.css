@@ -2,3 +2,7 @@
 .listUl{
     text-align: left;
 }
+#Inpt{
+    width: 50%;
+    justify-content: center;
+}

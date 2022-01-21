@@ -6,28 +6,29 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="style.css">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <link rel="stylesheet" href="fontawesome-free-5.15.4-web/css/all.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
     <title>C11</title>
 </head>
 <body>
-    <input id="Inpt">
+    <input class=".justify-content-sm-center" type="text" id="Inpt">
     <div class="table-responsive-md">          
         <table id="table" class="table table-hover">
             <thead>
                 <tr>
-              <th class="table-primary">ID</th>
+              <th scope="col" class="table-secondary"><i onclick="tableSort('ID','asc')" class="fas fa-sort-up"></i>ID<i onclick="tableSort('ID','desc')"class="fas fa-sort-down"></i></th>
 
-              <th class="table-info secondary text-dark">Nom du produit</th>
+              <th scope="col" class="table-warning"><i onclick="tableSort('name','asc')" class="fas fa-sort-up"></i>Product Name<i onclick="tableSort('name','desc')" class="fas fa-sort-down"></i></th>
               
-              <th class="table-primary success">Couleur</th>
+              <th scope="col" class="table-secondary"><i onclick="tableSort('colour','asc')" class="fas fa-sort-up"></i>Colour<i onclick="tableSort('colour','desc')" class="fas fa-sort-down"></i></th>
               
-              <th class="table-warning">Prix</th>
+              <th scope="col" class="table-warning"><i onclick="tableSort('price','asc')"class="fas fa-sort-up"></i>Price<i onclick="tableSort('price','desc')" class="fas fa-sort-down"></i></th>
               
-              <th class="table-info">Catégorie</th>
+              <th scope="col" class="table-secondary"><i onclick="tableSort('category','asc')" class="fas fa-sort-up"></i>Category<i onclick="tableSort('category','desc')" class="fas fa-sort-down"></i></th>
             
-              <th class="table-primary">Disponibilité</th>
+              <th scope="col" class="table-warning"><i onclick="tableSort('stock','asc')" class="fas fa-sort-up"></i>Availability<i onclick="tableSort('stock','desc')" class="fas fa-sort-down"></i></th>
               
-              <th class="table-info border-2-solid-black ">Fournisseur</th>
+              <th scope="col" class="table-secondary"><i onclick="tableSort('Supplier','asc')" class="fas fa-sort-up"></i>Supplier<i onclick="tableSort('Supplier','desc')" class="fas fa-sort-down"></i></th>
               </tr>
             </thead>
             <tbody id="tbody">

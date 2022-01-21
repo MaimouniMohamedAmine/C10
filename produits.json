@@ -8,7 +8,7 @@
     "stock": [
       "Tanger",
       "Casablanca",
-      "Aayoun"
+      "Tetouan"
     ],
     "Supplier":{
       "companyName":"ASOS",
@@ -28,8 +28,7 @@
     ],
     "Supplier":{
       "companyName":"River Island",
-        "address":
-        "Unit 28, Liverpool Shopping Park,Montrose Way, Liverpool, L13 1FA."
+        "address":"Unit 28, Liverpool Shopping Park,Montrose Way, Liverpool, L13 1FA."
     }
   },
   {
@@ -39,9 +38,9 @@
     "price": "2500 MAD",
     "category": "Men",
     "stock": [
-      "Tanger",
-      "Casablanca",
-      "Aayoun"
+      "F'nideq",
+      "Tetouan",
+      "Houceima"
     ],
     "Supplier":{
       "companyName":"Beckett Simonon.",
@@ -55,9 +54,9 @@
     "price": "26575 MAD",
     "category": "Men",
     "stock": [
-      "Tanger",
-      "Casablanca",
-      "Aayoun"
+      "F'nideq",
+      "Tetouan",
+      "Houceima"
     ],
     "Supplier":{
       "companyName":"Beckett Simonon.",
@@ -71,9 +70,10 @@
     "price": "2300 MAD",
     "category": "Men",
     "stock": [
-      "Tanger",
-      "Casablanca",
-      "Aayoun"
+      "F'nideq",
+      "Tetouan",
+      "Houceima"
+
     ],
     "Supplier":{
       "companyName":"Beckett Simonon.",
@@ -87,7 +87,7 @@
     "price": "2650 MAD",
     "category": "Men",
     "stock": [
-      "Tanger",
+      "Sale",
       "Casablanca",
       "Aayoun"
     ],
@@ -103,7 +103,7 @@
     "price": "1200 MAD",
     "category": "Unisex",
     "stock": [
-      "Tanger",
+      "Sale",
       "Casablanca",
       "Aayoun"
     ],
@@ -121,7 +121,8 @@
     "stock": [
       "Tanger",
       "Casablanca",
-      "Aayoun"
+      "Aayoun",
+      "Khouribga"
     ],
     "Supplier":{
       "companyName":"Dr Martens x Keith Haring",
@@ -136,7 +137,7 @@
     "category": "Men",
     "stock": [
       "Tanger",
-      "Casablanca",
+      "Laarache",
       "Aayoun"
     ],
     "Supplier":{
@@ -152,7 +153,7 @@
     "category": "Men",
     "stock": [
       "Tanger",
-      "Casablanca",
+      "Assilah",
       "Aayoun"
     ],
     "Supplier":{
@@ -168,7 +169,7 @@
     "category": "Men",
     "stock": [
       "Tanger",
-      "Casablanca",
+      "Assilah",
       "Aayoun"
     ],
     "Supplier":{
@@ -185,7 +186,8 @@
     "stock": [
       "Tanger",
       "Casablanca",
-      "Aayoun"
+      "Aayoun",
+      "Oujda"
     ],
     "Supplier":{
       "companyName":"Dr Martens",
@@ -200,7 +202,7 @@
     "category": "Unisex",
     "stock": [
       "Tanger",
-      "Casablanca",
+      "Oujda",
       "Laayoun"    
     ],
     "Supplier":{
@@ -216,7 +218,7 @@
     "category": "Men",
     "stock": [
       "Tanger",
-      "Casablanca",
+      "Marrakesh",
       "Laayoun"
     ],
     "Supplier":{
@@ -248,7 +250,7 @@
     "category": "Men",
     "stock": [
       "Tanger",
-      "Casablanca",
+      "Marrakesh",
       "Laayoun"
     ],
     "Supplier":{
